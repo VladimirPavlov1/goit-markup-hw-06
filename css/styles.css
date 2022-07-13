@@ -733,6 +733,9 @@ p{
     background-color: transparent;
     padding-left: 16px;
     margin-right: 12px;
+    color: #FFFFFF;
+    font-family: 'Roboto', sans-serif;
+    font-size: 20px;
 }
 .email-button{
         display: inline-flex;
