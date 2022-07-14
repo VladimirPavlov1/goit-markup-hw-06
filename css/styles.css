@@ -602,6 +602,7 @@ p{
 /* footer */
 .footer-box{
     text-align: start;
+    flex-grow: 1;
 }
 .footer-items{
      background-color: var(--hero-section-color); 
@@ -648,6 +649,9 @@ p{
      letter-spacing: .03em;
      text-decoration: none;
      font-style: normal;
+}
+.social-box{
+    flex-grow: 1;
 }
 .social-title{
     font-family: 'Roboto', sans-serif;
